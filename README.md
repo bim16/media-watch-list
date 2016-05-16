@@ -1,5 +1,6 @@
 # media-watch-list
 Lynda - AngularJS 2 Essential Training
+
 https://www.lynda.com/AngularJS-tutorials/AngularJS-2-Essential-Training/422834-2.html
 
 ###Getting Started###
